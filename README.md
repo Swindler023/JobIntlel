@@ -1,2 +1,5 @@
-# JobIntlel
-JobIntel is tool to track real job market demand —which skills, where, and how much. 
+#JobIntel 
+
+Analyze tech job market trends using scraped data from platforms like LinkedIn and Indeed. Built with Python + Streamlit + Plotly.
+
+MVP in progress  – follow along!
